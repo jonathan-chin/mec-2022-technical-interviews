@@ -20,5 +20,7 @@ max length = 100
 ## Ideas
 put string in another string in reverse order and compare
 
+use array, move from back of array to front, and copy to new array
+
 
 

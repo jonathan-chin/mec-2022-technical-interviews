@@ -1,6 +1,6 @@
 # 5 Step Process to answering a coding problem
 
-1. Echo back to make sure you understand. Put it into your own words. *ASK QUESTIONS IF SOMETHING IS UNCLEAR*
+1. Echo back to make sure you understand. Put it into your own words. *ASK QUESTIONS IF SOMETHING IS UNCLEAR*. You can offer your own examples and ask if they are correct.
 2. State your assumptions and constraints
 3. Psuedocode / plain language solution. Test your theory without writing code.
 4. Code it!
@@ -12,6 +12,9 @@
   - time complexity is how much time your solution takes up relative to the input
   - space complexity is how much space / memory your solution takes up relative to the input
 
+# Decoding Coding Problems
+
+- *given* means you will get something as an input.
 
 # Key Things
 - Coding Interview
