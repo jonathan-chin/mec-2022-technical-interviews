@@ -1,14 +1,16 @@
 # 5 Step Process to answering a coding problem
 
-1. Echo back to make sure you understand. Put it into your own words. *ASK QUESTIONS IF SOMETHING IS UNCLEAR*. You can offer your own examples and ask if they are correct.
-2. State your assumptions and constraints
-3. Psuedocode / plain language solution. Test your theory without writing code.
-4. Code it!
-5. Test and Refactor
+1. Understand the problem. Ask questions, look for keywords, etc.
+2. Parrot back / rubber duck your understanding of the problem. You can create your own examples. State your assumptions!
+3. Try to recognize a solution or pattern from previous code you've written.
+4. Build a plan with pseudo code.
+5. Test the plan manually a few times. Revise as needed.
+6. Once you are convinced the plan is good, tranlsate it into code.
+7. Refactor if you have time.
 
 # Common Questions to ask
 
-- Do I care about space complexity or time complexity?
+- Should I care about space complexity or time complexity?
   - time complexity is how much time your solution takes up relative to the input
   - space complexity is how much space / memory your solution takes up relative to the input
 
