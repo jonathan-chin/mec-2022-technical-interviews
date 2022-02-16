@@ -5,7 +5,7 @@
 3. Try to recognize a solution or pattern from previous code you've written.
 4. Build a plan with pseudo code.
 5. Test the plan manually a few times. Revise as needed.
-6. Once you are convinced the plan is good, tranlsate it into code.
+6. Once you are convinced the plan is good, translate it into code.
 7. Refactor if you have time.
 
 # Common Questions to ask
@@ -13,6 +13,17 @@
 - Should I care about space complexity or time complexity?
   - time complexity is how much time your solution takes up relative to the input
   - space complexity is how much space / memory your solution takes up relative to the input
+- Which languages should I use?
+- Can I use built in tools?
+
+## When working with arrays
+- Will the array ever be empty? What should I do then?
+- What about array of size ...?
+- What is the maximum length?
+
+## When working with numbers
+- Will they ever be negative?
+- Will they ever be zero?
 
 # Decoding Coding Problems
 
