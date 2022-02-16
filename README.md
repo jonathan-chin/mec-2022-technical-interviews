@@ -1,4 +1,4 @@
-# 5 Step Process to answering a coding problem
+# 7 Step Process to answering a coding problem
 
 1. Understand the problem. Ask questions, look for keywords, etc.
 2. Parrot back / rubber duck your understanding of the problem. You can create your own examples. State your assumptions!
