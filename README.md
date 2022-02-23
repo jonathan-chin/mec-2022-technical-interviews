@@ -18,12 +18,13 @@
 
 ## When working with arrays
 - Will the array ever be empty? What should I do then?
-- What about array of size ...?
-- What is the maximum length?
+- What is the min / max length?
+- Can elements be repeated?
 
 ## When working with numbers
 - Will they ever be negative?
 - Will they ever be zero?
+- What is min / max?
 
 # Decoding Coding Problems
 
